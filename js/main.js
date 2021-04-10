@@ -1,10 +1,3 @@
-/*
-   Template Name: StudyLab - Kid & Online Education HTML Template
-   Author: ThemeLeader
-   Author URI: https://themeforest.net/user/themeleaderf
-   Description: StudyLab - Kid & Online Education HTML Template
-   Version: 1.0
-*/
 /* 
 ---> Table of content <---
 1. Isotope
